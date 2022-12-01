@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\bin\Debug\netcoreapp3.1\Calorie Counting.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\obj\Debug\netcoreapp3.1\Calorie Counting.genruntimeconfig.cache
