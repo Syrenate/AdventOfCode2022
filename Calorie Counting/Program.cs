@@ -8,7 +8,7 @@ namespace Calorie_Counting
     {
         static void Main(string[] args)
         {
-            string[] input = File.ReadAllLines("C:\Users\lukej\source\repos\AdventOfCode2022\Calorie Counting\Day1Input.txt");
+            string[] input = File.ReadAllLines("C:/Users/lukej/source/repos/AdventOfCode2022/Calorie Counting/Day1Input.txt");
             List<int> elves = new List<int>();
             int currentElf = 0;
 

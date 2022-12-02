@@ -1,0 +1,13 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.genruntimeconfig.cache
