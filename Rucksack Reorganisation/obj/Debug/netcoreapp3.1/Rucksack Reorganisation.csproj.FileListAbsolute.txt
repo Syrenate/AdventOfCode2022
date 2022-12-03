@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\bin\Debug\netcoreapp3.1\Rucksack Reorganisation.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rucksack Reorganisation\obj\Debug\netcoreapp3.1\Rucksack Reorganisation.genruntimeconfig.cache

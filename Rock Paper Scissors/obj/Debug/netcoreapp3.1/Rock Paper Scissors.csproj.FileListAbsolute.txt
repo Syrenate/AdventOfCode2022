@@ -11,3 +11,4 @@ C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netco
 C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.dll
 C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
 C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.genruntimeconfig.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csproj.AssemblyReference.cache

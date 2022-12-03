@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rucksack Reorganisation/1.0.0": {
+        "runtime": {
+          "Rucksack Reorganisation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rucksack Reorganisation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
