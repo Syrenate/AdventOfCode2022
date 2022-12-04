@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\bin\Debug\netcoreapp3.1\Camp Cleanup.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.genruntimeconfig.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Camp Cleanup\obj\Debug\netcoreapp3.1\Camp Cleanup.csproj.AssemblyReference.cache
