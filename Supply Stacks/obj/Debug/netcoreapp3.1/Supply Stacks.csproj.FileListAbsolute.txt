@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\bin\Debug\netcoreapp3.1\Supply Stacks.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Supply Stacks\obj\Debug\netcoreapp3.1\Supply Stacks.genruntimeconfig.cache
