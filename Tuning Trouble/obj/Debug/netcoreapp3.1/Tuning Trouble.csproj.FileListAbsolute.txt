@@ -1,0 +1,13 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\bin\Debug\netcoreapp3.1\Tuning Trouble.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.genruntimeconfig.cache
