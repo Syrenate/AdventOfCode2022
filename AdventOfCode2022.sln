@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calorie Counting", "Calorie Counting\Calorie Counting.csproj", "{F6FA4364-3514-4A70-8C97-025249658F65}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camp Cleanup", "Camp Cleanu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supply Stacks", "Supply Stacks\Supply Stacks.csproj", "{CA9BC7DE-A9A4-4723-ABD4-60FE110FD1BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuning Trouble", "Tuning Trouble\Tuning Trouble.csproj", "{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuning Trouble", "Tuning Trouble\Tuning Trouble.csproj", "{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Space Left", "No Space Left\No Space Left.csproj", "{166526BB-F413-470D-A776-E3F578C9333B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166526BB-F413-470D-A776-E3F578C9333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166526BB-F413-470D-A776-E3F578C9333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166526BB-F413-470D-A776-E3F578C9333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166526BB-F413-470D-A776-E3F578C9333B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

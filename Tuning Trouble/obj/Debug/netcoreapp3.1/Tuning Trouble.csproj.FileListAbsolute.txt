@@ -11,3 +11,4 @@ C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp
 C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.dll
 C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.pdb
 C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.genruntimeconfig.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Tuning Trouble\obj\Debug\netcoreapp3.1\Tuning Trouble.csproj.AssemblyReference.cache

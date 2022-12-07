@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\bin\Debug\netcoreapp3.1\No Space Left.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\No Space Left\obj\Debug\netcoreapp3.1\No Space Left.genruntimeconfig.cache
