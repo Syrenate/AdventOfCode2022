@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\bin\Debug\netcoreapp3.1\Treetop Tree House.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Treetop Tree House\obj\Debug\netcoreapp3.1\Treetop Tree House.genruntimeconfig.cache

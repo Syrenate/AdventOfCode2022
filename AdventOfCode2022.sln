@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supply Stacks", "Supply Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuning Trouble", "Tuning Trouble\Tuning Trouble.csproj", "{579472DB-04C2-40BE-AAE1-C4CE3C4DA15C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Space Left", "No Space Left\No Space Left.csproj", "{166526BB-F413-470D-A776-E3F578C9333B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No Space Left", "No Space Left\No Space Left.csproj", "{166526BB-F413-470D-A776-E3F578C9333B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treetop Tree House", "Treetop Tree House\Treetop Tree House.csproj", "{592B1004-62ED-446A-BCAE-411B0D718A8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{166526BB-F413-470D-A776-E3F578C9333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166526BB-F413-470D-A776-E3F578C9333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166526BB-F413-470D-A776-E3F578C9333B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B1004-62ED-446A-BCAE-411B0D718A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B1004-62ED-446A-BCAE-411B0D718A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B1004-62ED-446A-BCAE-411B0D718A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B1004-62ED-446A-BCAE-411B0D718A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
