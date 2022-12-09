@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\bin\Debug\netcoreapp3.1\Rope Bridge.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Rope Bridge\obj\Debug\netcoreapp3.1\Rope Bridge.genruntimeconfig.cache
