@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No Space Left", "No Space L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treetop Tree House", "Treetop Tree House\Treetop Tree House.csproj", "{592B1004-62ED-446A-BCAE-411B0D718A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rope Bridge", "Rope Bridge\Rope Bridge.csproj", "{DFBBA779-34C8-4589-A2D1-5C003767FF57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rope Bridge", "Rope Bridge\Rope Bridge.csproj", "{DFBBA779-34C8-4589-A2D1-5C003767FF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cathode-Ray Tube", "Cathode-Ray Tube\Cathode-Ray Tube.csproj", "{5E12F9CE-6240-4FF8-BE39-CB6ECFA8B6CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DFBBA779-34C8-4589-A2D1-5C003767FF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBBA779-34C8-4589-A2D1-5C003767FF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBBA779-34C8-4589-A2D1-5C003767FF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E12F9CE-6240-4FF8-BE39-CB6ECFA8B6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E12F9CE-6240-4FF8-BE39-CB6ECFA8B6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E12F9CE-6240-4FF8-BE39-CB6ECFA8B6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E12F9CE-6240-4FF8-BE39-CB6ECFA8B6CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

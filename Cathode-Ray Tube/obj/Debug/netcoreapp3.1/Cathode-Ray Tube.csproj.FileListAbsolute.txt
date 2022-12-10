@@ -1,0 +1,14 @@
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.exe
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.deps.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.runtimeconfig.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\bin\Debug\netcoreapp3.1\Cathode-Ray Tube.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.AssemblyInfo.cs
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.dll
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.pdb
+C:\Users\lukej\source\repos\AdventOfCode2022\Cathode-Ray Tube\obj\Debug\netcoreapp3.1\Cathode-Ray Tube.genruntimeconfig.cache
